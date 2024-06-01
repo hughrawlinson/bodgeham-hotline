@@ -1,0 +1,5 @@
+{
+  "verb": "play",
+  "url": "https://raw.githubusercontent.com/hughrawlinson/bodgeham-hotline/main/play-jingle.json",
+  "actionHook": "https://raw.githubusercontent.com/hughrawlinson/bodgeham-hotline/main/play-jingle.json"
+}
