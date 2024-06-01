@@ -1,4 +1,5 @@
 {
   "verb": "play",
-  "url": "https://github.com/hughrawlinson/bodgeham-hotline/raw/main/Bodgeham-Bodgeham-Bodgeham.wav"
+  "url": "https://github.com/hughrawlinson/bodgeham-hotline/raw/main/Bodgeham-Bodgeham-Bodgeham.wav",
+  "actionHook": "https://raw.githubusercontent.com/hughrawlinson/bodgeham-hotline/main/play-badger.json"
 }
